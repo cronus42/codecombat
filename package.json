@@ -72,7 +72,7 @@
     "stripe": "~2.9.0",
     "tv4": "~1.0.16",
     "underscore.string": "2.3.x",
-    "webworker-threads": "~0.5.5",
+    "webworker-threads": "~0.7.17",
     "winston": "0.6.x"
   },
   "devDependencies": {
