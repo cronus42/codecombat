@@ -57,7 +57,7 @@
     "jsondiffpatch": "0.1.17",
     "lodash": "~2.4.1",
     "mailchimp-api": "2.0.x",
-    "moment": "~2.5.0",
+    "moment": "~2.29.1",
     "mongodb": "^2.0.28",
     "mongoose": "3.8.x",
     "mongoose-cache": "https://github.com/nwinter/mongoose-cache/tarball/master",
