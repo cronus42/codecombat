@@ -44,7 +44,7 @@
   "dependencies": {
     "JQDeferred": "~2.1.0",
     "aether": "~0.3.0",
-    "async": "0.2.x",
+    "async": "3.2.2",
     "aws-sdk": "~2.0.0",
     "bayesian-battle": "0.0.x",
     "coffee-script": "1.9.x",
@@ -66,14 +66,14 @@
     "passport": "0.1.x",
     "passport-local": "0.1.x",
     "redis": "",
-    "request": "2.12.x",
+    "request": "2.75.0",
     "sendwithus": "2.1.x",
     "stream-buffers": "0.2.x",
     "stripe": "~2.9.0",
     "tv4": "~1.0.16",
     "underscore.string": "2.3.x",
     "webworker-threads": "~0.5.5",
-    "winston": "0.6.x"
+    "winston": "3.3.0"
   },
   "devDependencies": {
     "auto-reload-brunch": "> 1.0 < 1.8",
