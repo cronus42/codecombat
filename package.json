@@ -45,7 +45,7 @@
     "JQDeferred": "~2.1.0",
     "aether": "~0.3.0",
     "async": "0.2.x",
-    "aws-sdk": "~2.0.0",
+    "aws-sdk": "~2.1354.0",
     "bayesian-battle": "0.0.x",
     "coffee-script": "1.9.x",
     "connect": "2.7.x",
