@@ -49,7 +49,7 @@
     "bayesian-battle": "0.0.x",
     "coffee-script": "1.9.x",
     "connect": "2.7.x",
-    "express": "~3.0.6",
+    "express": "~4.19.2",
     "express-useragent": "~0.0.9",
     "geoip-lite": "^1.1.6",
     "graceful-fs": "~2.0.1",
