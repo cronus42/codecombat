@@ -67,7 +67,7 @@
     "passport-local": "0.1.x",
     "redis": "",
     "request": "2.12.x",
-    "sendwithus": "2.1.x",
+    "sendwithus": "5.0.0",
     "stream-buffers": "0.2.x",
     "stripe": "~2.9.0",
     "tv4": "~1.0.16",
